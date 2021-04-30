@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 import argparse
 import time
 import sys
-from requests.utils import requote_uri
 
 
 
