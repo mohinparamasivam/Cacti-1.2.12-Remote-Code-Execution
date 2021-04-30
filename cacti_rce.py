@@ -1,10 +1,9 @@
 # Exploit Title: Cacti v1.2.12 Authenticated Remote Code Execution
 # Date: 30th April 2021
 # Exploit Author: Mohin Paramasivam (Shad0wQu35t)
-# Software Link: https://about.gitlab.com/
-# POC: https://liveoverflow.com/gitlab-11-4-7-remote-code-execution-real-world-ctf-2018/
-# Tested on: GitLab 11.4.7 CE
-# CVE : CVE-2018-19571 (SSRF),CVE-2018-19585 (CRLF)
+# Software Link: https://www.cacti.net/
+# Tested on: Cacti v1.2.12
+# CVE : CVE-2020-14295
 
 
 import requests
